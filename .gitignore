@@ -1,2 +1,4 @@
 # ignore all venv files
-/venv/
+venv/*
+/venv/*
+.venv/*
